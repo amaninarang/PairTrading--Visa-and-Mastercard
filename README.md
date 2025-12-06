@@ -30,3 +30,7 @@ Key statistics:
 - Spreads may widen longer than expected
 - High volatility can generate false signals
 - Transaction costs may reduce profitability
+
+# Technical Stack 
+- Python: Pandas, NumPy, Matplotlib
+- Data: YFinance API
